@@ -1,0 +1,3 @@
+    -Clase #2(Nada perdido): 29-03-2022_Martes:
+El profe quiere que resolvamos el problema 1 planteado en la web. Tenés que pedirle acceso al archivo, para poder tratarlo. Tiene grado de tarea.
+El ejercicio plantea algo así como reslover un caso de cuadro no web desordenado que no representa los ideales de un SQL, y hay que arrweglarlo, fijandose con exactitud la documentación de SQL.
