@@ -1,8 +1,15 @@
     -Clase #2(Nada perdido): 29-03-2022_Martes(Virtual):
 
-El profe quiere que resolvamos el problema 1 planteado en la web. Tenés que pedirle acceso al archivo, para poder tratarlo. Tiene grado de tarea.
-El ejercicio plantea algo así como reslover un caso de cuadro no web desordenado que no representa los ideales de un SQL, y hay que arrweglarlo, fijandose con exactitud la documentación de SQL.
+El profe quiere que resolvamos el problema 1 planteado en la web. TenÃ©s que pedirle acceso al archivo, para poder tratarlo. Tiene grado de tarea.
+El ejercicio plantea algo asÃ­ como reslover un caso de cuadro no web desordenado que no representa los ideales de un SQL, y hay que arrweglarlo, fijandose con exactitud la documentaciÃ³n de SQL.
     -Clase #3: 05-04-2022_Martes:
-El profe empezò analizando como funciona pythonanywhere, y yo logeando ahi. Lo que empezò por hacer, es jugar con la base de datos de la tarea, desde la consola de la misma pagina.
+El profe empezÃ² analizando como funciona pythonanywhere, y yo logeando ahi. Lo que empezÃ² por hacer, es jugar con la base de datos de la tarea, desde la consola de la misma pagina.
 Abrieron la base y empezaron a modificarla.
 Usaron DISTINCT para identificar por unidad a cada provincia, y ALTER para modificar a algunos de los nombres.
+    -Clase #4: 12-04-2022_Martes:
+    
+Hoy seguimos "jugando" con la base de datos de Ahora 12.
+SELECT @x:=(Para asignar una variable)
+Vimos que cuando se exporta una base de datos desde PHPMyadmin, exporta basicamente la sentencia de ensamble de la misma.
+
+LÃ­nea especial: Es importante preguntarle a Diego el concepto de "Normalizar" cuando vaya el martes que viene.
