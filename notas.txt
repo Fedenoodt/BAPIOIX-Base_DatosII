@@ -19,3 +19,5 @@ Línea especial: Es importante preguntarle a Diego el concepto de "Normalizar" c
 Ya està. El "Concepto" de normalizar, es hacer de una tabla de datos, una base de datos, no te compliques mas, porque lo sabes.
 
 La clase de hoy empezó bien arriba con Diego diciendo que hay que entregar un trabajo en cinco horas. Al grano.
+Para cargar archivos, tengo que buscar en mi espacio, el boton de "Upload a file" y cargar.
+Los archivos comprimidos se pueden cargar en  pythonanywhere. Al caso de lo0s ZIP, dentro del bash, uno puede dar comando de "unzip (Nombre de archivo).zip" para desplegar los archivos comprimidos.
