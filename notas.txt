@@ -13,3 +13,9 @@ SELECT @x:=(Para asignar una variable)
 Vimos que cuando se exporta una base de datos desde PHPMyadmin, exporta basicamente la sentencia de ensamble de la misma.
 
 Línea especial: Es importante preguntarle a Diego el concepto de "Normalizar" cuando vaya el martes que viene.
+
+    -Clase #5: 19-04-2022_Martes:
+    
+Ya està. El "Concepto" de normalizar, es hacer de una tabla de datos, una base de datos, no te compliques mas, porque lo sabes.
+
+La clase de hoy empezó bien arriba con Diego diciendo que hay que entregar un trabajo en cinco horas. Al grano.
