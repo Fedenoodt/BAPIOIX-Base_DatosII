@@ -25,3 +25,4 @@ Los archivos comprimidos se pueden cargar en  pythonanywhere. Al caso de lo0s ZI
     -Clase #6: 26-04-2022_Martes(Virtual):
 
 El profe arrancó la clase mostrando que se pueden almacenar consultas en "Procedimientos". Estos son conjuntos de consultas símples que recaudan la información que se necesita, información puntual. Estos se pueden llamar.
+Estos se crean con "CREATE PROCEDURE nombre BEGIN ..."
