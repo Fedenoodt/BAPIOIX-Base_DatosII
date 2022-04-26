@@ -28,3 +28,14 @@ El profe arrancó la clase mostrando que se pueden almacenar consultas en "Proce
 Estos se crean con "CREATE PROCEDURE nombre BEGIN ... END"
 Pythonanywhere presenta un problema, y es que para delimitar, hay que decirle que delimite con "delimiter "X"".
 Los procedimientos se llaman con Call nombre(delimitador).
+
+CREATE PROCEDURE nombre(cant INT)
+BEGIN
+WHILE cant > 0 DO
+    IF mod(cant, 2) = 0 THEN
+    SELECT cant AS numerito;
+    END IF;
+    SET cant = cant - 1;
+    END WHILE;
+END(delimitador)
+Es una estructura de while de SQL.
