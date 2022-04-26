@@ -6,7 +6,7 @@ El ejercicio plantea algo así como reslover un caso de cuadro no web desordenad
 El profe empezò analizando como funciona pythonanywhere, y yo logeando ahi. Lo que empezò por hacer, es jugar con la base de datos de la tarea, desde la consola de la misma pagina.
 Abrieron la base y empezaron a modificarla.
 Usaron DISTINCT para identificar por unidad a cada provincia, y ALTER para modificar a algunos de los nombres.
-    -Clase #4: 12-04-2022_Martes:
+    -Clase #4: 12-04-2022_Martes(Virtual):
     
 Hoy seguimos "jugando" con la base de datos de Ahora 12.
 SELECT @x:=(Para asignar una variable)
@@ -21,3 +21,7 @@ Ya està. El "Concepto" de normalizar, es hacer de una tabla de datos, una base 
 La clase de hoy empezó bien arriba con Diego diciendo que hay que entregar un trabajo en cinco horas. Al grano.
 Para cargar archivos, tengo que buscar en mi espacio, el boton de "Upload a file" y cargar.
 Los archivos comprimidos se pueden cargar en  pythonanywhere. Al caso de lo0s ZIP, dentro del bash, uno puede dar comando de "unzip (Nombre de archivo).zip" para desplegar los archivos comprimidos.
+
+    -Clase #6: 26-04-2022_Martes(Virtual):
+
+El profe arrancó la clase mostrando que se pueden almacenar consultas en "Procedimientos". Estos son conjuntos de consultas símples que recaudan la información que se necesita, información puntual.
