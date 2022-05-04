@@ -40,6 +40,8 @@ WHILE cant > 0 DO
 END(delimitador)
 Es una estructura de while de SQL.
 
-    -Clase #7: 03-05-2022_Martes:}
+    -Clase #7: 03-05-2022_Martes:
 
 Hoy no tuvimos clase.
+
+Una nota personal para algo que me estaba confundiendo. La forma de manipular pythonanywhere, es desde el BASH, no en la terminal básica. No entiendo porqué, pero funciona así.
