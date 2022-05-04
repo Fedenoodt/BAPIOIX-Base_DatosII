@@ -39,3 +39,7 @@ WHILE cant > 0 DO
     END WHILE;
 END(delimitador)
 Es una estructura de while de SQL.
+
+    -Clase #7: 03-05-2022_Martes:}
+
+Hoy no tuvimos clase.
