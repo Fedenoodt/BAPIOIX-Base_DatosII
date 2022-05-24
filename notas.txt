@@ -49,3 +49,4 @@ Una nota personal para algo que me estaba confundiendo. La forma de manipular py
     -Clase #9: 24-05-2022_Martes(Virtual):
 Hoy seguimos analizando los procedimientos con SQL, y vimos que como hacíamos el execute, hacemos, llamando al archivo, una función que contenga las órdenes.
 El profe también nos contó, que a veces para hacer un programa de selección, nos conviene NO normalizarla por que si hacemos los dos pasos, perdería eficacia.
+SP es la manera de identificar a un store procedure (procedimiento almacenado).
