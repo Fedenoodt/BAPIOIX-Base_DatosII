@@ -46,7 +46,15 @@ Hoy no tuvimos clase.
 
 Una nota personal para algo que me estaba confundiendo. La forma de manipular pythonanywhere, es desde el BASH, no en la terminal básica. No entiendo porqué, pero funciona así.
 
-    -Clase #9: 24-05-2022_Martes(Virtual):
+    -Clase #8: 10-05-2022_Martes(Virtual):
+
+Hoy no tuvimos clase.
+
+    -Clase #7: 17-05-2022_Martes:
+
+Hoy no tuvimos clase.
+
+    -Clase #10: 24-05-2022_Martes(Virtual):
 Hoy seguimos analizando los procedimientos con SQL, y vimos que como hacíamos el execute, hacemos, llamando al archivo, una función que contenga las órdenes.
 El profe también nos contó, que a veces para hacer un programa de selección, nos conviene NO normalizarla por que si hacemos los dos pasos, perdería eficacia.
 SP es la manera de identificar a un store procedure (procedimiento almacenado).
