@@ -66,3 +66,5 @@ Hoy arrancamos la clase viendo al profe crear procedimientos almacenados. Es alg
 Después el profe quizo que trataramos de hacer los procedimientos para loas consultas nosotros solos el ejercicio de clase.
 Así: (https://docs.google.com/document/d/1F1VdYWfuQor_pQDcHKMBW8Eo9pxw095HiQG2KpjE8aY/edit) se crean, y este: (https://docs.google.com/document/d/1N6lVj8vv_d61l_Se694C00dIfmp033ezZyXzTlme2dg/edit) es el ejercicio.
 El Formato de string con fecha ISO8601 se refiere a escribir la fecha con este formato: 31-05-2022T19:38,nada más, es solo eso.
+
+Las páginas de formateo SQL que el profe pasó el otro día, tienen que ver solamente con páginas que le dan "Estética y dispocición" a la base de datos.
