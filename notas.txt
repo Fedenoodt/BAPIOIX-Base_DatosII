@@ -50,7 +50,7 @@ Una nota personal para algo que me estaba confundiendo. La forma de manipular py
 
 Hoy no tuvimos clase.
 
-    -Clase #7: 17-05-2022_Martes:
+    -Clase #9: 17-05-2022_Martes:
 
 Hoy no tuvimos clase.
 
@@ -60,3 +60,7 @@ El profe también nos contó, que a veces para hacer un programa de selección, 
 SP es la manera de identificar a un store procedure (procedimiento almacenado).
 
 El profe quiere que nos esforzemos con la nota parcial, haciendo el trabajo del 19 de abril.
+
+    -Clase #10: 31-05-2022_Martes:
+Hoy arrancamos la clase viendo al profe crear procedimientos almacenados. Es algo asì como hacer las sentencias, mezclando y haciendo juego con Python.
+Después el profe quizo que trataramos de hacer los procedimientos para loas consultas nosotros solos.
