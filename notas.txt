@@ -68,3 +68,5 @@ Así: (https://docs.google.com/document/d/1F1VdYWfuQor_pQDcHKMBW8Eo9pxw095HiQG2K
 El Formato de string con fecha ISO8601 se refiere a escribir la fecha con este formato: 31-05-2022T19:38,nada más, es solo eso.
 
 Las páginas de formateo SQL que el profe pasó el otro día, tienen que ver solamente con páginas que le dan "Estética y dispocición" a la base de datos.
+
+Los triggers son "disparadores" que hacen cosas. Con AFTER, uno define condiciones sobre lo que se le quiere hacer a la base. Antes de ingresar, modificar, y eliminar datos.
