@@ -64,3 +64,4 @@ El profe quiere que nos esforzemos con la nota parcial, haciendo el trabajo del 
     -Clase #10: 31-05-2022_Martes:
 Hoy arrancamos la clase viendo al profe crear procedimientos almacenados. Es algo asì como hacer las sentencias, mezclando y haciendo juego con Python.
 Después el profe quizo que trataramos de hacer los procedimientos para loas consultas nosotros solos el ejercicio de clase.
+Así: (https://docs.google.com/document/d/1F1VdYWfuQor_pQDcHKMBW8Eo9pxw095HiQG2KpjE8aY/edit) se crean, y este: (https://docs.google.com/document/d/1N6lVj8vv_d61l_Se694C00dIfmp033ezZyXzTlme2dg/edit) es el ejercicio.
