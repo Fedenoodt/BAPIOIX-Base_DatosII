@@ -75,6 +75,11 @@ Los triggers son "disparadores" que hacen cosas. Con AFTER, uno define condicion
 
 Hoy no tuvimos clase.
 
-    -Clase #13: 12-06-2022_Martes:
+    -Clase #13: 14-06-2022_Martes:
+    
+Hoy no tuvimos clase.
+
+
+    -Clase #14: 21-06-2022_Martes:
     
 Hoy no tuvimos clase.
